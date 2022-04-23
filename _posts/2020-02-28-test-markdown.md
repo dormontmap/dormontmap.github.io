@@ -14,6 +14,8 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 
 ## Here is a secondary heading
 
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/dormont-mobility-and-access-project-map_737157?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/en/map/dormont-mobility-and-access-project-map_737157">See full screen</a></p>
+
 Here's a useless table:
 
 | Number | Next number | Previous number |
