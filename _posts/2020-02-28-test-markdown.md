@@ -12,9 +12,9 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 
 **Here is some bold text**
 
-## Here is a secondary heading
+## Dormont base map
 
-<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/dormont-mobility-and-access-project-map_737157?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/en/map/dormont-mobility-and-access-project-map_737157">See full screen</a></p>
+<iframe width="100%" height="600px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/dormont-mobility-and-access-project-map_737157?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=none&captionBar=false&datalayers=2170782%2C2170784%2C2170785%2C2170781%2C2170791%2C2186527%2C2186494%2C2186505%2C2170795%2C2186539%2C2187791"></iframe><p><a href="//umap.openstreetmap.fr/en/map/dormont-mobility-and-access-project-map_737157">See full screen</a></p>
 
 [Full Map](http://u.osmfr.org/m/737157/)
 
