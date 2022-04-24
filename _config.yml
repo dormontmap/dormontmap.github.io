@@ -14,7 +14,7 @@ author: DormontMAP Team
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About The Project: "aboutme"
+  About The Project: "about"
   Access & Mobility?:
     - What is mobility?: "https://beautifuljekyll.com"
     - Why is it important?: "https://www.markdowntutorial.com/"
