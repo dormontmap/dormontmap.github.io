@@ -4,12 +4,13 @@ title: Audit coverage map
 subtitle: What did we get? What did we miss?
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [audit, map}
+tags: [audit, map]
 comments: true
 ---
 
 Back in summer 2020 participants divided up the work of recording observations of conditions on Dormont's streets for pedestrian access and mobility.
-Almost everyone who took part submitted their observations on paper or electronically.  
+Almost everyone who took part submitted their observations on paper or electronically. 
+
 There were a couple hiccups between start and finish, but here's a look at what we covered:
 
 ## Dormont Mobility Audit 2020 Coverage
