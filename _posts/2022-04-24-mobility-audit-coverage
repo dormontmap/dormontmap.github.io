@@ -6,7 +6,7 @@ cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [audit, map}
+tags: [audit, map]
 comments: true
 ---
 
